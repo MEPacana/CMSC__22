@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC_22.iml" filepath="$PROJECT_DIR$/CMSC_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Implementation/Implementation.iml" filepath="$PROJECT_DIR$/Implementation/Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Non-Abstract/Non-Abstract.iml" filepath="$PROJECT_DIR$/Non-Abstract/Non-Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PVZ/PVZ.iml" filepath="$PROJECT_DIR$/PVZ/PVZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue_Stack/Queue_Stack.iml" filepath="$PROJECT_DIR$/Queue_Stack/Queue_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPG/RPG.iml" filepath="$PROJECT_DIR$/RPG/RPG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Records/Records.iml" filepath="$PROJECT_DIR$/Records/Records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+    </modules>
+  </component>
+</project>
